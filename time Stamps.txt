@@ -1,0 +1,38 @@
+timestamps:
+00:00:00  project demo
+00:06:05 Software Setup
+00:11:23 Creating Node Server
+00:22:08 MVC Pattern & Extensions
+00:46:51 MongoDB setup
+00:55:02 user models routes controller
+01:04:01 Register API with postman
+01:18:59 Login API with postman
+01:28:55 auth middle ware
+01:33:59 get current user 
+01:39:26 Iventory Model
+01:45:29 Inventory APIS
+02:01:13 Inventory Records
+02:07:55 CRA Setup
+02:21:19 Login Form
+02:34:00 Reusable Login Form
+03:19:10 Auth Service
+03:18:37 Redux Toolkit
+03:31:58 Axios Interceptor
+03:43:08 Login Action and Reducer
+04:02:07 Register Action and Reducer
+04:16:17 Public Private Routes
+04:32:22 Loading State Handling Errors
+04:45:24 Layout And Logout 
+05:00:15 Sidebar and Popup model
+05:20:47 Blood Record Modal
+05:33:11 In Out Blood Record
+05:49:11 Records Calculations 
+06:11:06 Donars Records
+06:38:46 Hospital Records
+06:48:53 Organization record
+07:08:28 records calculation
+07:16:00 Out Records
+07:30:54 Analytics
+08:18:04 Admin Panel routes pages
+08:31:20 admin panel complete
+09:07:40 Project Deployment
